@@ -6,7 +6,7 @@
   "keywords": ["node", "express", "telegram","bot"],
   "env": {
     "BOT_TOKEN": {
-      "description": "Your Bot Token"
+      "description": "439449520:AAE-9dWP6VcSrMOBIyHTFuHRT4TP-1KS-Pw"
     },
     "WEBHOOK": {
       "description": "Webhook For Your Bot"
