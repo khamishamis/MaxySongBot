@@ -20,7 +20,7 @@ request({
 
 app.use(bodyParser.json());
 app.get('/',function(req,res,next) {
-    res.send("<h1 style='text-align:center; color: blueviolet;'>Welcome to MaxySongBot</h1>"
+    res.send("<h1 style='text-align:center; color: blueviolet;'>Welcome to MusicDenBot</h1>"
         +"<h3 style='text-align:center;'>"
         +"<a href='https://telegram.me/MusicDenBot'>PLEASE VISIT</a></h3>");
     next();
