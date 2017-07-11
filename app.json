@@ -9,7 +9,7 @@
       "description": "439449520:AAE-9dWP6VcSrMOBIyHTFuHRT4TP-1KS-Pw"
     },
     "WEBHOOK": {
-      "description": "Webhook For Your Bot"
+      "description": "https://www.googleapis.com/youtube/v3/search"
     }
   }
 }
